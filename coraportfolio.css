@@ -1,0 +1,36 @@
+/* @media only screen and  (min-device-width : 320px) and (max-device-width : 480px)
+{ body { background-color: #d1f9c5;
+} */
+h1 {font-style: oblique;
+text-decoration:underline;
+}
+body {background-image: url(images/backpic.png);}
+
+.topbox { text-align: center;
+font-family:'Dancing Script', cursive;}
+
+h2
+{text-align: center;
+border: 2px none;
+height: auto;
+width: auto;
+margin-left: 100px;
+margin-right: 100px;
+font-style: oblique;
+}
+.bio {font-size: 15px;
+font-family:'Dancing Script', cursive;
+text-align: center;}
+
+
+.cm {
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
+.center {text-align: center;}
+
+.brokie {width: 200px;}
+
+.p1, .p2, .p3, .p4 {color: gray; text-align: left;}
