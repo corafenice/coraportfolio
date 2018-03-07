@@ -1,5 +1,5 @@
 require "sinatra"
 
 get '/' do
-  File.open("piblc/index.html")
+  File.open("public/index.html")
 end
